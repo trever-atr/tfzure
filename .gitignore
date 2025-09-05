@@ -1,4 +1,4 @@
 .terraform/
-.terraform.tfstate.lock.info
-terraform.tfstate*
+*.tfstate.*
+
 /vm/id_vm
